@@ -42,3 +42,21 @@
 - [x] 5 practice challenges
 - [x] AI-generated questions attempted
 
+# Day 3 - Excel Dashboards + Power Query
+
+## What I Built Today
+- Sales Performance Dashboard with:
+  - 3 KPI Cards (Revenue, Orders, AOV)
+  - Bar Chart: Sales by Category
+  - Line Chart: Monthly Sales Trend
+  - Pie Chart: Sales by Region
+  - Connected Slicers (Region + Category)
+
+## Power Query Steps Learned
+1. Load CSV data
+2. Remove unnecessary columns
+3. Change data types
+4. Remove duplicates
+5. Add calculated columns
+6. Load clean data to Excel
+
