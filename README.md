@@ -60,3 +60,31 @@
 5. Add calculated columns
 6. Load clean data to Excel
 
+# Day 4 - SQL Basics
+
+## Concepts Learned
+- SELECT, FROM, WHERE
+- ORDER BY (ASC/DESC)
+- GROUP BY
+- Aggregate Functions (SUM/COUNT/AVG/MAX/MIN)
+- HAVING vs WHERE difference
+- DISTINCT
+- LIMIT
+
+## Key Rule I Learned Today
+WHERE filters rows BEFORE grouping
+HAVING filters groups AFTER grouping
+
+## 10 Business Queries I Solved
+1. Total sales per region 
+2. Orders per category 
+3. Average sales per segment
+4. Most profitable region 
+5. ...and so on
+
+## HackerRank Score
+Problems solved: 
+□ Select All
+□ Select By ID  
+□ Japanese Cities Attributes
+□ Japanese Cities Names
