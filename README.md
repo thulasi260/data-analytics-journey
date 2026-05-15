@@ -88,3 +88,40 @@ Problems solved:
 □ Select By ID  
 □ Japanese Cities Attributes
 □ Japanese Cities Names
+# Day 5 - SQL JOINs
+
+## JOIN Types Summary
+
+### INNER JOIN
+- Returns only matching rows from both tables
+- Use when: you want data that exists in BOTH tables
+- Example: customers who placed orders
+
+### LEFT JOIN  
+- Returns ALL rows from left + matching from right
+- NULL where no match in right table
+- Use when: you want ALL records from main table
+- Most powerful use: find records with NO match
+- Example: customers who NEVER ordered
+
+### RIGHT JOIN
+- Opposite of LEFT JOIN
+- Rarely used (rewrite as LEFT JOIN instead)
+
+### FULL OUTER JOIN
+- Returns everything from both tables
+- MySQL: use UNION of LEFT + RIGHT JOIN
+
+### SELF JOIN
+- Table joins with itself
+- Use for: hierarchical data, employee-manager
+
+## The Golden Rule
+LEFT JOIN + WHERE right_table.id IS NULL
+= Find records with NO MATCH
+This is asked in 90% of interviews
+
+## 10 Business Queries Solved
+1. Customer order details → INNER JOIN ✅
+2. Customers who never ordered → LEFT JOIN ✅
+...
