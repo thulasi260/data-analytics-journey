@@ -124,4 +124,9 @@ This is asked in 90% of interviews
 ## 10 Business Queries Solved
 1. Customer order details → INNER JOIN ✅
 2. Customers who never ordered → LEFT JOIN ✅
-...
+
+...## Day 6 ✅
+- Python functions for data analysis
+- LinkedIn profile fully set up
+- Connected with 20 analysts
+- File handling in Python
