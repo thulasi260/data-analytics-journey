@@ -130,3 +130,41 @@ This is asked in 90% of interviews
 - LinkedIn profile fully set up
 - Connected with 20 analysts
 - File handling in Python
+# Week 1 Review — 90-Day Analytics Journey
+
+## Week 1 Summary
+Days completed: 7/7
+Overall score: ___/10
+
+## What I Built This Week
+- Excel Sales Dashboard (3 KPIs, 3 charts, slicers)
+- Power Query cleaning pipeline
+- SQL practice database with 50+ queries
+- Python functions for data analysis
+- LinkedIn profile fully set up
+- GitHub repository with daily commits
+
+## Skills Learned
+### Excel
+- Pivot Tables with slicers
+- XLOOKUP, INDEX-MATCH, SUMIFS
+- Power Query: load, clean, transform
+- Dashboard design principles
+
+### SQL
+- SELECT, WHERE, ORDER BY
+- GROUP BY with SUM/COUNT/AVG/MAX/MIN
+- HAVING vs WHERE difference
+- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- LEFT JOIN + IS NULL (find unmatched records)
+- SELF JOIN for hierarchical data
+
+### Python
+- Variables, lists, dictionaries
+- For loops and list comprehensions
+- Functions with default parameters
+- Lambda functions
+- Exception handling
+- File handling (CSV read/write)
+
+
